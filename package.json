@@ -1,0 +1,11 @@
+{
+  "name": "node-app_maricris_futol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Futol_Maicris",
+  "license": "ISC"
+}
